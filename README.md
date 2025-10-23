@@ -183,7 +183,7 @@ Para sair do chat, digite `sair` ou `exit`.
 
 **Resposta gerada:**
 ```
-De acordo com nossos documentos, a empresa funciona de segunda a sexta-feira, 
+A nossa empresa funciona de segunda a sexta-feira, 
 das 8h às 18h, e aos sábados das 9h às 13h. Estamos fechados aos domingos 
 e feriados.
 ```
@@ -208,7 +208,7 @@ O reembolso é processado em até 7 dias úteis.
 **Resposta gerada:**
 ```
 Oferecemos atendimento através dos seguintes canais:
-- WhatsApp: (11) 98765-4321
+- WhatsApp: (11) 91234-5678
 - E-mail: contato@empresa.com
 - Chat online no site: disponível 24/7
 - Telefone: 0800-123-4567 (segunda a sexta, 8h às 18h)
@@ -221,7 +221,7 @@ Oferecemos atendimento através dos seguintes canais:
 ```
 Rag-com-langchain/
 │
-├── .env                    ← Chave da API (não versionar!)
+├── .env                    
 ├── .gitignore
 ├── requirements.txt
 ├── criar_db.py            ← Cria o banco de dados vetorizado
@@ -233,7 +233,7 @@ Rag-com-langchain/
 ├── db/                    ← Banco de dados vetorizado (gerado automaticamente)
 │   └── chroma/
 │
-└── venv/                  ← Ambiente virtual (não versionar)
+└── venv/                 
 ```
 
 ---
