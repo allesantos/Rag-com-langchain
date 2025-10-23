@@ -1,0 +1,28 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Banco de dados
+db/
+*.sqlite3
+*.db
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Arquivos do Django
+*.log
+local_settings.py
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
